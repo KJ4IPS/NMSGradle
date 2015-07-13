@@ -1,0 +1,15 @@
+# Java SE
+*.class
+
+# Gradle in /
+/.gradle/
+/build/
+
+# Intelij IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ViM
+.*.swp
