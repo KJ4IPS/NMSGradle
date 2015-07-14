@@ -1,4 +1,4 @@
-package haun.guru.gradle.nms;
+package guru.haun.gradle.nms;
 
 /**
  * Created by KJ4IPS on 7/13/15.

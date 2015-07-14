@@ -1,4 +1,4 @@
-package haun.guru.gradle.nms.gradle.task;
+package guru.haun.gradle.nms.gradle.task;
 
 import org.gradle.api.DefaultTask;
 import org.gradle.api.Task;

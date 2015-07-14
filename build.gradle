@@ -12,6 +12,8 @@ plugins {
 	id 'idea'
 }
 
+group = "guru.haun.gradle.nms"
+
 repositories {
     jcenter()
 }
@@ -19,11 +21,12 @@ repositories {
 dependencies {
 	compile	localGroovy()
 	compile	gradleApi()
+	compile 'org.eclipse.jgit:org.eclipse.jgit:4.0.1.201506240215-r'
 }
-
 
 idea {
 	module {
 		downloadSources = true
 	}
 }
+

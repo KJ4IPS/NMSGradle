@@ -1,4 +1,4 @@
-package haun.guru.gradle.nms.gradle;
+package guru.haun.gradle.nms.gradle;
 
 import org.gradle.api.Task;
 import org.gradle.api.artifacts.Dependency;
